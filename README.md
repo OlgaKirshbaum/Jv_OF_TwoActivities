@@ -22,3 +22,7 @@ TwoActivitiesLifeCycle-это версия TwoActivities, которая печ�
 ------------------------------
 ### Изображение приложения:
 
+![Screenshot_1622548460](https://user-images.githubusercontent.com/77355204/120321304-d31e1800-c2eb-11eb-8408-bdad13e67520.png)
+![Screenshot_1622548485](https://user-images.githubusercontent.com/77355204/120321306-d3b6ae80-c2eb-11eb-951e-15d4498d8fe9.png)
+![Screenshot_1622548495](https://user-images.githubusercontent.com/77355204/120321307-d44f4500-c2eb-11eb-9a9e-1ea3e6a130fa.png)
+![Screenshot_1622548517](https://user-images.githubusercontent.com/77355204/120321311-d4e7db80-c2eb-11eb-8efe-6fff32177215.png)
